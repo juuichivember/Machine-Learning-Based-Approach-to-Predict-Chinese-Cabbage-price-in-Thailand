@@ -3,7 +3,7 @@ This is a Final Mini Project for school on the topic of predicting Chinese Cabba
 
 
 <h2>How to run the code</h2>
-  Download the .zip file of this project and open the "CN340 Final.ipynb" file on any Jupyter Notebook or Google Colab. Make sure you upload all the data files (.csv files) on the same folder as Jupyter Notebook file. Then, you can execute the code and get the same result as the original file.
+  Download the .zip file of this project and open the "CN340 Final.ipynb" file on Jupyter Notebook or Google Colab. Make sure you upload all the data files (.csv files) on the same folder as Jupyter Notebook file. Then, you can execute the code and get the same result as the original file.
 
 
 <h2>Data</h2>
