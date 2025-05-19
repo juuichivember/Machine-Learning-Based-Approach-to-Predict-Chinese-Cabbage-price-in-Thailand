@@ -1,4 +1,4 @@
-# Machine-Learning-Based-Approach-to-Predict-Vegetable-Prices-for-Agricultural
+# Machine Learning-Based Approach to Predict Chinese Cabbage price in Thailand
 This is a Final Mini Project for school on the topic of predicting Chinese Cabbage's average price using machine learning algorithms.
 
 
